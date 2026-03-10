@@ -4,7 +4,7 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 ---
 
 ## 🌤️ Project 1: Semarang Weather Web App
-![Semarang Weather Screenshot](Dokuemwntasi Porject Porto/Screenshot (22).png)
+<img src="Dokuemwntasi Porject Porto/Screenshot (22).png" width="800">
 
 **Description**: Aplikasi pemantau cuaca interaktif yang menyajikan data meteorologi presisi untuk berbagai titik di Kota Semarang. Aplikasi ini menggabungkan data dari provider internasional dan lokal untuk memberikan informasi yang akurat bagi warga Semarang.
 
