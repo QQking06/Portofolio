@@ -84,7 +84,7 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 ---
 
 ## 💻 Project 5: Personal Website
-![Personal Website Screenshot](https://via.placeholder.com/800x400?text=Personal+Website+Screenshot)
+(https://photos.app.goo.gl/1in7NUNFHPEw96M29)
 
 **Description**: Website profil pribadi profesional sebagai resume digital dan galeri interaktif untuk menampilkan karya-karya saya secara online.
 
