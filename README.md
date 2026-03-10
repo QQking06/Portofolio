@@ -47,21 +47,21 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 <table border="0">
   <tr>
     <td>
-      <p align="center"><b>Project Weather</b></p>
+      <p align="center"><b>Menu E-ACADEMIC</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (18).png" width="400">
     </td>
     <td>
-      <p align="center"><b>Project App Market</b></p>
+      <p align="center"><b>Section E_ACADEMIC</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (19).png" width="400">
     </td>
   </tr>
   <tr>
     <td>
-      <p align="center"><b>Project E-Academic</b></p>
+      <p align="center"><b>Menu E_LIBRARY</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (20).png" width="400">
     </td>
     <td>
-      <p align="center"><b>Project Music School</b></p>
+      <p align="center"><b>Section E-LIBRARY</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (21).png" width="400">
     </td>
   </tr>
