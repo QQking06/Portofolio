@@ -51,13 +51,13 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
       <img src="Dokuemwntasi Porject Porto/Screenshot (18).png" width="400">
     </td>
     <td>
-      <p align="center"><b>Section E_ACADEMIC</b></p>
+      <p align="center"><b>Section E-ACADEMIC</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (19).png" width="400">
     </td>
   </tr>
   <tr>
     <td>
-      <p align="center"><b>Menu E_LIBRARY</b></p>
+      <p align="center"><b>Menu E-LIBRARY</b></p>
       <img src="Dokuemwntasi Porject Porto/Screenshot (21).png" width="400">
     </td>
     <td>
