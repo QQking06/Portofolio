@@ -105,7 +105,7 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 
 ## 📫 Let's Connect!
 - **GitHub**: [@QQking06](https://github.com/QQking06)
-- **LinkedIn**: [La Tangke Siwalifu](www.linkedin.com/in/la-tangke-siwalifu-475237322)
+- **LinkedIn**: [www.linkedin.com/in/la-tangke-siwalifu-475237322]
 - **Email**: [siwalifutangke@gmail.com]
 
 ---
