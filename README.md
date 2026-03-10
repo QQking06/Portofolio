@@ -89,11 +89,11 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
   <tr>
     <td>
       <p align="center"><b>Menu Music School</b></p>
-      <img src="Dokuemwntasi Porject Porto/Screenshot 2025-11-13 145138.png" width="450">
+      <img src="Dokuemwntasi Porject Porto/Screenshot 2025-11-13 145138.png" height="250">
     </td>
     <td>
       <p align="center"><b>Section Music School</b></p>
-      <img src="Dokuemwntasi Porject Porto/Screenshot 2025-12-01 225820.png" width="450">
+      <img src="Dokuemwntasi Porject Porto/Screenshot 2025-12-01 225820.png" height="250">
     </td>
   </tr>
 </table>
