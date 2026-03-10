@@ -1,97 +1,112 @@
-# Portfolio
+# My Portfolio 🚀
+Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang berfokus pada pengembangan backend menggunakan Java Spring Boot dan pengembangan web. Berikut adalah beberapa proyek yang telah saya kerjakan.
 
-Welcome to my portfolio! Below are the details of my six projects, complete with descriptions, GitHub links, technology badges, and key features.
+---
 
-## Project 1: Project Name
-![Project 1 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 1. This project focuses on ...
+## 🌤️ Project 1: Semarang Weather Web App
+![Semarang Weather Screenshot](https://raw.githubusercontent.com/QQking06/weather-webapp/main/Screenshot%20(23).png)
+
+**Description**: Aplikasi pemantau cuaca interaktif yang menyajikan data meteorologi presisi untuk berbagai titik di Kota Semarang. Aplikasi ini menggabungkan data dari provider internasional dan lokal untuk memberikan informasi yang akurat bagi warga Semarang.
 
 **Technologies Used**: 
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- **Detailed Weather Metrics**: Menampilkan suhu (°C), kelembapan, tekanan udara, hingga kecepatan angin.
+- **Location Based**: Data dikelompokkan berdasarkan area spesifik di Semarang (Gunungpati, Tembalang, dll).
+- **Real-time Data Fetching**: Mengintegrasikan API BMKG dan Open-Meteo secara real-time.
 
-**GitHub Link**: [View Project 1 on GitHub](https://github.com/QQking06/project1)
+**GitHub Link**: [View Project on GitHub](https://github.com/QQking06/weather-webapp)
 
 ---
 
-## Project 2: Project Name
-![Project 2 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 2. This project focuses on ...
+## 🛒 Project 2: App Market
+![App Market Screenshot](https://via.placeholder.com/800x400?text=App+Market+Screenshot)
+
+**Description**: Platform marketplace aplikasi sederhana untuk manajemen katalog aplikasi digital. Proyek ini berfokus pada pengolahan database relasional dan alur transaksi barang digital.
 
 **Technologies Used**:
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-green)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- Implementasi CRUD lengkap untuk produk aplikasi.
+- Sistem kategori dan pencarian aplikasi.
+- Integrasi database MySQL dengan Hibernate ORM.
 
-**GitHub Link**: [View Project 2 on GitHub](https://github.com/QQking06/project2)
+**GitHub Link**: [View Project on GitHub](https://github.com/QQking06/App_Market)
 
 ---
 
-## Project 3: Project Name
-![Project 3 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 3. This project focuses on ...
+## 🎓 Project 3: E-Academic System
+![E-Academic Screenshot](https://via.placeholder.com/800x400?text=E-Academic+System+Screenshot)
+
+**Description**: Sistem informasi akademik terpadu yang dirancang untuk mengelola data mahasiswa, dosen, dan nilai secara digital guna meningkatkan efisiensi administrasi pendidikan.
 
 **Technologies Used**:
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-red)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- Role-Based Access Control (Admin, Dosen, Mahasiswa).
+- Manajemen jadwal kuliah dan input nilai otomatis.
+- Dashboard statistik data akademik.
 
-**GitHub Link**: [View Project 3 on GitHub](https://github.com/QQking06/project3)
+**GitHub Link**: [View Project on GitHub](https://github.com/QQking06/e_academic)
 
 ---
 
-## Project 4: Project Name
-![Project 4 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 4. This project focuses on ...
+## 🎸 Project 4: Music School App
+![Music School Screenshot](https://via.placeholder.com/800x400?text=Music+School+App+Screenshot)
+
+**Description**: Aplikasi manajemen operasional sekolah musik yang menangani pendaftaran murid, pemilihan instrumen, dan penjadwalan kelas musik.
 
 **Technologies Used**:
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-004880?style=for-the-badge&logo=databricks&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- Fitur registrasi murid baru untuk berbagai instrumen (Gitar, Piano, Biola).
+- Pengaturan jadwal instruktur musik.
+- Manajemen inventaris alat musik sekolah.
 
-**GitHub Link**: [View Project 4 on GitHub](https://github.com/QQking06/project4)
+**GitHub Link**: [View Project on GitHub](https://github.com/QQking06/Music_School_App)
 
 ---
 
-## Project 5: Project Name
-![Project 5 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 5. This project focuses on ...
+## 💻 Project 5: Personal Website
+![Personal Website Screenshot](https://via.placeholder.com/800x400?text=Personal+Website+Screenshot)
+
+**Description**: Website profil pribadi profesional sebagai resume digital dan galeri interaktif untuk menampilkan karya-karya saya secara online.
 
 **Technologies Used**:
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-purple)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- Desain *Modern & Responsive* ( Mobile Friendly).
+- Portofolio filterable untuk kategori proyek berbeda.
+- Integrasi formulir kontak langsung ke email.
 
-**GitHub Link**: [View Project 5 on GitHub](https://github.com/QQking06/project5)
+**GitHub Link**: [View Project on GitHub](https://github.com/Listy56/Website-Personal)
 
 ---
 
-## Project 6: Project Name
-![Project 6 Screenshot](placeholder.png)
-**Description**: A brief introduction to Project 6. This project focuses on ...
+## 📫 Let's Connect!
+- **GitHub**: [@QQking06](https://github.com/QQking06)
+- **LinkedIn**: [Link LinkedIn Kamu]
+- **Email**: [Email Kamu]
 
-**Technologies Used**:
-![Tech Badge](https://img.shields.io/badge/technology-technology_name-orange)
-
-**Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
-
-**GitHub Link**: [View Project 6 on GitHub](https://github.com/QQking06/project6)
+---
+*Last updated: March 2024*
