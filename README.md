@@ -24,7 +24,7 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 ---
 
 ## 🛒 Project 2: App Market
-![App Market Screenshot](https://via.placeholder.com/800x400?text=App+Market+Screenshot)
+<img src="Dokuemwntasi Porject Porto/233767546-ba25566b-7926-4140-82fe-12346a1f357e.png" width="800">
 
 **Description**: Platform marketplace aplikasi sederhana untuk manajemen katalog aplikasi digital. Proyek ini berfokus pada pengolahan database relasional dan alur transaksi barang digital.
 
@@ -44,7 +44,28 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 ---
 
 ## 🎓 Project 3: E-Academic System
-![E-Academic Screenshot](https://via.placeholder.com/800x400?text=E-Academic+System+Screenshot)
+<table border="0">
+  <tr>
+    <td>
+      <p align="center"><b>Project Weather</b></p>
+      <img src="Dokuemwntasi Porject Porto/Screenshot (18).png" width="400">
+    </td>
+    <td>
+      <p align="center"><b>Project App Market</b></p>
+      <img src="Dokuemwntasi Porject Porto/Screenshot (19).png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><b>Project E-Academic</b></p>
+      <img src="Dokuemwntasi Porject Porto/Screenshot (20).png" width="400">
+    </td>
+    <td>
+      <p align="center"><b>Project Music School</b></p>
+      <img src="Dokuemwntasi Porject Porto/Screenshot (21).png" width="400">
+    </td>
+  </tr>
+</table>
 
 **Description**: Sistem informasi akademik terpadu yang dirancang untuk mengelola data mahasiswa, dosen, dan nilai secara digital guna meningkatkan efisiensi administrasi pendidikan.
 
