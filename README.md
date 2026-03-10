@@ -1,50 +1,97 @@
 # Portfolio
 
-Welcome to my portfolio! Here, you will find details about my projects and contributions across various technologies.
+Welcome to my portfolio! Below are the details of my six projects, complete with descriptions, GitHub links, technology badges, and key features.
 
-## Projects
+## Project 1: Project Name
+![Project 1 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 1. This project focuses on ...
 
-### 1. App_Market 
-- **Language:** Kotlin  
-- **Percentage:** 100% completed
+**Technologies Used**: 
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-blue)
 
-### 2. Portofolio  
-- **Details:** This current repository contains my personal portfolio showcasing all my work.
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
 
-### 3. e_academic  
-- **Technologies:** HTML, CSS, Python, SCSS, JavaScript  
-- **Completion Rates:**  
-  - HTML: 44.5%  
-  - CSS: 20.4%  
-  - Python: 16.7%  
-  - SCSS: 11.5%  
-  - JavaScript: 6.9%  
+**GitHub Link**: [View Project 1 on GitHub](https://github.com/QQking06/project1)
 
-### 4. weather-app  
-- **Language:** Java  
-- **Completion Rate:** 78.3%  
-- **HTML:** 21.7%
+---
 
-### 5. Music_School_App  
-- **Technologies:** Blade, PHP, CSS, JavaScript  
-- **Completion Rates:**  
-  - Blade: 54%  
-  - PHP: 43.3%  
-  - CSS: 2.6%  
-  - JavaScript: 0.1%  
+## Project 2: Project Name
+![Project 2 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 2. This project focuses on ...
 
-### 6. Market_Place  
-- **Technologies:** PHP, Blade  
-- **Completion Rates:**  
-  - PHP: 51.7%  
-  - Blade: 48.3%  
+**Technologies Used**:
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-green)
 
-### 7. Listy56/Website-Personal  
-- **Technologies:** HTML, CSS, JavaScript  
-- **Completion Rates:**  
-  - HTML: 55.4%  
-  - CSS: 37.3%  
-  - JavaScript: 7.3%  
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
 
----  
-This portfolio serves as a demonstration of my skills and progress in different programming languages and frameworks. Thank you for visiting!
+**GitHub Link**: [View Project 2 on GitHub](https://github.com/QQking06/project2)
+
+---
+
+## Project 3: Project Name
+![Project 3 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 3. This project focuses on ...
+
+**Technologies Used**:
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-red)
+
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+**GitHub Link**: [View Project 3 on GitHub](https://github.com/QQking06/project3)
+
+---
+
+## Project 4: Project Name
+![Project 4 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 4. This project focuses on ...
+
+**Technologies Used**:
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-yellow)
+
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+**GitHub Link**: [View Project 4 on GitHub](https://github.com/QQking06/project4)
+
+---
+
+## Project 5: Project Name
+![Project 5 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 5. This project focuses on ...
+
+**Technologies Used**:
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-purple)
+
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+**GitHub Link**: [View Project 5 on GitHub](https://github.com/QQking06/project5)
+
+---
+
+## Project 6: Project Name
+![Project 6 Screenshot](placeholder.png)
+**Description**: A brief introduction to Project 6. This project focuses on ...
+
+**Technologies Used**:
+![Tech Badge](https://img.shields.io/badge/technology-technology_name-orange)
+
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+**GitHub Link**: [View Project 6 on GitHub](https://github.com/QQking06/project6)
