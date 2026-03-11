@@ -26,18 +26,19 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 ## 🛒 Project 2: App Market
 <img src="Dokuemwntasi Porject Porto/233767546-ba25566b-7926-4140-82fe-12346a1f357e.png" width="800">
 
-**Description**: Platform marketplace aplikasi sederhana untuk manajemen katalog aplikasi digital. Proyek ini berfokus pada pengolahan database relasional dan alur transaksi barang digital.
+**Description**: Platform marketplace aplikasi mobile yang memungkinkan manajemen katalog digital secara efisien. Proyek ini mengintegrasikan aplikasi Android native dengan sistem backend untuk pengelolaan data real-time.
 
 **Technologies Used**:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Key Features**:
-- Implementasi CRUD lengkap untuk produk aplikasi.
-- Sistem kategori dan pencarian aplikasi.
-- Integrasi database MySQL dengan Hibernate ORM.
+- **Android Native Development**: Dibangun menggunakan Kotlin untuk performa aplikasi yang optimal.
+- **RESTful API Backend**: Menggunakan PHP sebagai jembatan komunikasi antara aplikasi dan database.
+- **Dynamic Catalog**: Implementasi CRUD untuk manajemen produk aplikasi secara dinamis.
+- **Database Management**: Penyimpanan data terstruktur menggunakan MySQL.
 
 **GitHub Link**: [View Project on GitHub](https://github.com/QQking06/App_Market)
 
@@ -77,7 +78,7 @@ Selamat datang di repositori portofolio saya! Saya adalah seorang Developer yang
 
 **Key Features**:
 - Role-Based Access Control (Admin, Dosen, Mahasiswa).
-- Manajemen jadwal kuliah dan input nilai otomatis.
+- Manajemen Pengukur Prestasi dan Informasi Seputar Akademik.
 - Dashboard statistik data akademik.
 
 **GitHub Link**: [View Project on GitHub](https://github.com/QQking06/e_academic)
